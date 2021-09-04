@@ -31,7 +31,7 @@ export default function Form({ addTask }) {
         onChange={e => setName(e.target.value)}
       />
       <button type='submit' className='btn btn__primary btn__lg'>
-        Add
+        Add Task
       </button>
     </form>
   );
