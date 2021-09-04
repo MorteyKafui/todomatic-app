@@ -58,7 +58,7 @@ body {
   max-width: 68rem;
   margin: 0 auto;
   font: 1.6rem/1.25 Arial, sans-serif;
-  background-color: #e3fafc;
+  background-color: #22b8cf;
   color: #4d4d4d;
 }
 @media screen and (min-width: 620px) {
@@ -150,8 +150,7 @@ body {
   margin: 2rem 0 4rem 0;
   padding: 1rem;
   position: relative;
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05),
-    0 2.5rem 5rem 0 rgba(0, 0, 0, 0.04);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2.5rem 5rem 0 rgba(0, 0, 0, 0.2);
   border-radius: 5px;
 }
 @media screen and (min-width: 550px) {
